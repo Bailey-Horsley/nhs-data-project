@@ -1,6 +1,6 @@
 # NHS Healthcare Data Science Project
 
-This project is an independent data science exploration using synthetic healthcare data. The goal was to simulate a real-world healthcare analytics scenario — from designing a database to applying machine learning for insight generation. 
+This project is an independent data science exploration using synthetic healthcare data. The goal was to simulate a real-world healthcare analytics scenario, from designing a database to applying machine learning for insight generation. 
 
 ---
 
