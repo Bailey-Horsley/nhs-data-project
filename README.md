@@ -47,7 +47,7 @@ Key tasks:
 
 ---
 
-##  Results (Highlights)
+##  Results 
 
 - Identified hospitals with statistically high concentrations of younger patients
 - Built a regression model predicting claim approvals with 71% accuracy (R²)
